@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-03-19T00:10:21" hostname="ERROR-404.fios-router.home" time="0.056">
+<testsuite name="Tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-03-21T02:02:26" hostname="ERROR-404.fios-router.home" time="0.103">
   <properties/>
-  <testcase name="start" classname="Tests" time="0.056"/>
+  <testcase name="start" classname="Tests" time="0.103"/>
   <system-out><![CDATA[?[1;31m
 Start test 1?[0m
 Hello! My name is Aid.
@@ -28,7 +28,16 @@ Now I will prove to you that I can count to any number you want.
 8!
 9!
 10!
-Completed, have a nice day!
+Let's test your programming knowledge.
+Why do we use methods?
+1. To repeat a statement multiple times.
+2. To decompose a program into several small subroutines.
+3. To determine the execution time of a program.
+4. To interrupt the execution of a program.
+> 1
+Please, try again.
+> 2
+Congratulations, have a nice day!
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
